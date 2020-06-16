@@ -1,2 +1,4 @@
-# children_books
-This repo holds the txt version of some famous children_books for semantic and word analysis
+# dataset
+This repo holds some of the txt version of some 
+- famous children_books 
+- movie subtitles
